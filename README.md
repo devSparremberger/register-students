@@ -17,8 +17,10 @@ Para compilar e executar o programa, siga os seguintes passos:
 1. Certifique-se de ter um compilador C instalado no seu sistema (como GCC).
 2. Abra um terminal e navegue até o diretório onde o arquivo `main.c` está localizado.
 3. Compile o código digitando o seguinte comando;
-4. Execute o programa recém-compilado com o seguinte comando:
-5. Siga as instruções no terminal para utilizar as funcionalidades do sistema de gerenciamento de alunos.
+   gcc main.c -o gerenciador_alunos
+5. Execute o programa recém-compilado com o seguinte comando:
+   ./gerenciador_alunos
+7. Siga as instruções no terminal para utilizar as funcionalidades do sistema de gerenciamento de alunos.
 
 ## Contribuição
 
